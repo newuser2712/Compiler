@@ -1,0 +1,35 @@
+Program 2 child IDEN 
+IDEN 2 child func_body 
+func_body 1 child Declaration  2 child Declaration  3 child ASSIGN  4 child Iterative 
+Declaration 0 child type  1 child IDEN 
+type 0 child INTEGER  1 child Box 
+INTEGER
+Box 1 child INTR 
+INTR
+IDEN
+Declaration 0 child INTEGER  1 child IDEN 
+INTEGER
+IDEN
+ASSIGN 1 child IDEN  3 child INTR 
+IDEN
+INTR
+Iterative 0 child WHILE  2 child LT  4 child LOOP  5 child smts_&_func_defs  6 child ENDLOOP 
+WHILE
+LT 0 child IDEN  2 child INTR 
+IDEN
+INTR
+LOOP
+smts_&_func_defs 0 child ASSIGN  1 child ASSIGN 
+ASSIGN 1 child Lvalue  3 child IDEN 
+Lvalue 0 child IDEN  1 child IDEN 
+IDEN
+IDEN
+IDEN
+ASSIGN 1 child IDEN  3 child Expression 
+IDEN
+Expression 0 child IDEN  2 child ExpB 
+IDEN
+ExpB 0 child PLUS  1 child INTR 
+PLUS
+INTR
+ENDLOOP

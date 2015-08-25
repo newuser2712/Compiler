@@ -1,0 +1,12 @@
+Program 2 child 300 
+ 2 child 113 
+func_body 1 child 118  2 child 19  3 child 50 
+Declaration 0 child 12  1 child 301  2 child 302 
+STRING
+
+
+ASSIGN 1 child 303  3 child 56 
+
+STR
+PRINT 2 child 304 
+

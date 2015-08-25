@@ -1,0 +1,12 @@
+Prog
+%main():[] 
+SubProg
+Integer i;
+assign i as 0;
+while(i < 10)
+Loop
+print(i);
+assign i as i+1;
+EndLoop
+EndSubProg
+EndProg

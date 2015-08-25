@@ -1,0 +1,314 @@
+table value is 1 where non terminal is 100 and token is 0 and token no is 0
+pushing 0
+pushing 101
+pushing 102
+pushing 1
+Entered Terminal
+Entered Terminal poping
+table value is 3 where non terminal is 101 and token is 4 and token no is 1
+pushing 67
+table value is 4 where non terminal is 102 and token is 4 and token no is 1
+pushing 104
+pushing 103
+table value is 7 where non terminal is 104 and token is 4 and token no is 1
+pushing 4
+pushing 105
+pushing 113
+Entered Terminal
+Entered Terminal poping
+table value is 8 where non terminal is 105 and token is 65 and token no is 2
+pushing 158
+pushing 5
+pushing 106
+pushing 6
+pushing 7
+pushing 8
+pushing 111
+pushing 9
+table value is 128 where non terminal is 158 and token is 65 and token no is 2
+pushing 65
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+table value is 10 where non terminal is 106 and token is 6 and token no is 4
+pushing 67
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+table value is 23 where non terminal is 111 and token is 9 and token no is 7
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 26 where non terminal is 113 and token is 16 and token no is 8
+pushing 16
+pushing 114
+pushing 17
+Entered Terminal
+Entered Terminal poping
+table value is 27 where non terminal is 114 and token is 12 and token no is 9
+pushing 116
+pushing 115
+table value is 30 where non terminal is 116 and token is 12 and token no is 9
+pushing 117
+table value is 32 where non terminal is 117 and token is 12 and token no is 9
+pushing 118
+table value is 40 where non terminal is 118 and token is 12 and token no is 9
+pushing 109
+pushing 145
+pushing 18
+table value is 15 where non terminal is 109 and token is 12 and token no is 9
+pushing 12
+Entered Terminal
+Entered Terminal poping
+table value is 110 where non terminal is 145 and token is 65 and token no is 10
+pushing 158
+pushing 146
+table value is 128 where non terminal is 158 and token is 65 and token no is 10
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 111 where non terminal is 146 and token is 10 and token no is 11
+pushing 10
+pushing 145
+Entered Terminal
+Entered Terminal poping
+table value is 110 where non terminal is 145 and token is 65 and token no is 12
+pushing 158
+pushing 146
+table value is 128 where non terminal is 158 and token is 65 and token no is 12
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 112 where non terminal is 146 and token is 18 and token no is 13
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 28 where non terminal is 115 and token is 19 and token no is 14
+pushing 114
+table value is 27 where non terminal is 114 and token is 19 and token no is 14
+pushing 116
+pushing 115
+table value is 30 where non terminal is 116 and token is 19 and token no is 14
+pushing 117
+table value is 33 where non terminal is 117 and token is 19 and token no is 14
+pushing 119
+table value is 41 where non terminal is 119 and token is 19 and token no is 14
+pushing 19
+pushing 120
+pushing 20
+pushing 121
+pushing 18
+Entered Terminal
+Entered Terminal poping
+table value is 42 where non terminal is 120 and token is 65 and token no is 15
+pushing 158
+pushing 123
+table value is 128 where non terminal is 158 and token is 65 and token no is 15
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 50 where non terminal is 123 and token is 20 and token no is 16
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 45 where non terminal is 121 and token is 55 and token no is 17
+pushing 131
+table value is 66 where non terminal is 131 and token is 55 and token no is 17
+pushing 151
+pushing 132
+table value is 119 where non terminal is 151 and token is 55 and token no is 17
+pushing 55
+pushing 56
+pushing 55
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+table value is 73 where non terminal is 132 and token is 18 and token no is 20
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 28 where non terminal is 115 and token is 19 and token no is 21
+pushing 114
+table value is 27 where non terminal is 114 and token is 19 and token no is 21
+pushing 116
+pushing 115
+table value is 30 where non terminal is 116 and token is 19 and token no is 21
+pushing 117
+table value is 33 where non terminal is 117 and token is 19 and token no is 21
+pushing 119
+table value is 41 where non terminal is 119 and token is 19 and token no is 21
+pushing 19
+pushing 120
+pushing 20
+pushing 121
+pushing 18
+Entered Terminal
+Entered Terminal poping
+table value is 42 where non terminal is 120 and token is 65 and token no is 22
+pushing 158
+pushing 123
+table value is 128 where non terminal is 158 and token is 65 and token no is 22
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 50 where non terminal is 123 and token is 20 and token no is 23
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 45 where non terminal is 121 and token is 55 and token no is 24
+pushing 131
+table value is 66 where non terminal is 131 and token is 55 and token no is 24
+pushing 151
+pushing 132
+table value is 119 where non terminal is 151 and token is 55 and token no is 24
+pushing 55
+pushing 56
+pushing 55
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+table value is 73 where non terminal is 132 and token is 18 and token no is 27
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 28 where non terminal is 115 and token is 15 and token no is 28
+pushing 114
+table value is 27 where non terminal is 114 and token is 15 and token no is 28
+pushing 116
+pushing 115
+table value is 30 where non terminal is 116 and token is 15 and token no is 28
+pushing 117
+table value is 32 where non terminal is 117 and token is 15 and token no is 28
+pushing 118
+table value is 40 where non terminal is 118 and token is 15 and token no is 28
+pushing 109
+pushing 145
+pushing 18
+table value is 19 where non terminal is 109 and token is 15 and token no is 28
+pushing 15
+Entered Terminal
+Entered Terminal poping
+table value is 110 where non terminal is 145 and token is 65 and token no is 29
+pushing 158
+pushing 146
+table value is 128 where non terminal is 158 and token is 65 and token no is 29
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 112 where non terminal is 146 and token is 18 and token no is 30
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 28 where non terminal is 115 and token is 19 and token no is 31
+pushing 114
+table value is 27 where non terminal is 114 and token is 19 and token no is 31
+pushing 116
+pushing 115
+table value is 30 where non terminal is 116 and token is 19 and token no is 31
+pushing 117
+table value is 33 where non terminal is 117 and token is 19 and token no is 31
+pushing 119
+table value is 41 where non terminal is 119 and token is 19 and token no is 31
+pushing 19
+pushing 120
+pushing 20
+pushing 121
+pushing 18
+Entered Terminal
+Entered Terminal poping
+table value is 42 where non terminal is 120 and token is 65 and token no is 32
+pushing 158
+pushing 123
+table value is 128 where non terminal is 158 and token is 65 and token no is 32
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 50 where non terminal is 123 and token is 20 and token no is 33
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 45 where non terminal is 121 and token is 65 and token no is 34
+pushing 131
+table value is 63 where non terminal is 131 and token is 65 and token no is 34
+pushing 158
+pushing 123
+pushing 132
+table value is 128 where non terminal is 158 and token is 65 and token no is 34
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 50 where non terminal is 123 and token is 35 and token no is 35
+pushing 67
+table value is 72 where non terminal is 132 and token is 35 and token no is 35
+pushing 138
+pushing 131
+table value is 87 where non terminal is 138 and token is 35 and token no is 35
+pushing 139
+table value is 89 where non terminal is 139 and token is 35 and token no is 35
+pushing 35
+Entered Terminal
+Entered Terminal poping
+table value is 63 where non terminal is 131 and token is 65 and token no is 36
+pushing 158
+pushing 123
+pushing 132
+table value is 128 where non terminal is 158 and token is 65 and token no is 36
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 50 where non terminal is 123 and token is 18 and token no is 37
+pushing 67
+table value is 73 where non terminal is 132 and token is 18 and token no is 37
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 28 where non terminal is 115 and token is 50 and token no is 38
+pushing 114
+table value is 27 where non terminal is 114 and token is 50 and token no is 38
+pushing 116
+pushing 115
+table value is 30 where non terminal is 116 and token is 50 and token no is 38
+pushing 117
+table value is 35 where non terminal is 117 and token is 50 and token no is 38
+pushing 147
+table value is 114 where non terminal is 147 and token is 50 and token no is 38
+pushing 50
+pushing 5
+pushing 144
+pushing 6
+pushing 18
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+table value is 109 where non terminal is 144 and token is 65 and token no is 40
+pushing 158
+pushing 123
+table value is 128 where non terminal is 158 and token is 65 and token no is 40
+pushing 65
+Entered Terminal
+Entered Terminal poping
+table value is 50 where non terminal is 123 and token is 6 and token no is 41
+pushing 67
+Entered Terminal
+Entered Terminal poping
+Entered Terminal
+Entered Terminal poping
+table value is 29 where non terminal is 115 and token is 17 and token no is 43
+pushing 67
+Entered Terminal
+Entered Terminal poping
+table value is 6 where non terminal is 103 and token is 1 and token no is 44
+pushing 67
+Entered Terminal
+Entered Terminal poping

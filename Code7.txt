@@ -1,0 +1,10 @@
+Program 2 child 300 
+ 2 child 113 
+func_body 1 child 118  2 child 49  3 child 50 
+Declaration 0 child 11  1 child 301 
+INTEGER
+
+SCAN 2 child 302 
+
+PRINT 2 child 303 
+

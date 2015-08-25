@@ -1,0 +1,25 @@
+Program 2 child  
+ 2 child func_body 
+func_body 1 child Declaration  2 child ASSIGN  3 child ASSIGN  4 child Declaration  5 child ASSIGN  6 child PRINT 
+Declaration 0 child STRING  1 child   2 child  
+STRING
+
+
+ASSIGN 1 child   3 child STR 
+
+STR
+ASSIGN 1 child   3 child STR 
+
+STR
+Declaration 0 child BOOLEAN  1 child  
+BOOLEAN
+
+ASSIGN 1 child   3 child Expression 
+
+Expression 0 child   2 child ExpB 
+
+ExpB 0 child LEXICOGRAPHIC  1 child  
+LEXICOGRAPHIC
+
+PRINT 2 child  
+

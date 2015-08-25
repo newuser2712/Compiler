@@ -1,0 +1,28 @@
+Program 2 child 300 
+ 2 child 113 
+func_body 1 child 118  2 child 19  3 child 19 
+Declaration 0 child 11  1 child 301  2 child 302  3 child 303  4 child 304 
+INTEGER
+
+
+
+
+ASSIGN 1 child 120  3 child 133 
+Lvalue 0 child 305  1 child 306  2 child 307  3 child 308 
+
+
+
+
+Mul_Block 1 child 134 
+Mul_Left_Rec 0 child 400  2 child 401  3 child 402  4 child 403 
+
+
+
+
+ASSIGN 1 child 309  3 child 131 
+
+Expression 0 child 310  2 child 132 
+
+ExpB 0 child 42  1 child 311 
+PLUS
+

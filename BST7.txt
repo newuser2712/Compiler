@@ -1,0 +1,10 @@
+Program 2 child 65 
+IDEN 2 child 113 
+func_body 1 child 118  2 child 49  3 child 50 
+Declaration 0 child 11  1 child 65 
+INTEGER
+IDEN
+SCAN 2 child 65 
+IDEN
+PRINT 2 child 65 
+IDEN

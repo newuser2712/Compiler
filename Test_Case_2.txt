@@ -1,0 +1,27 @@
+Prog
+Global
+Integer a;
+EndGlobal
+	
+%first(Integer y):[Integer]
+SubProg
+assign a as 1;
+Integer b;
+return [b];
+EndSubProg
+
+%second(Integer z):[Integer]
+SubProg
+Integer a,b;
+Decimal c;
+assign multiple [b] as Call first(c);
+EndSubProg
+
+%main():[]
+SubProg
+assign a as 2;
+Integer c;
+assign multiple [c] as Call second(a);
+print(a);
+EndSubProg
+EndProg

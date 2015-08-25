@@ -1,0 +1,19 @@
+Declared Twice
+Undeclared Variable used
+If statement has boolean 
+Return variable assigned
+array reference cannot exceed the size of array
+array indexes should be integers
+array indexes cannot exceed array size
+Returnless functions assigned void
+Return should match function return
+Function inputs are correct on call
+Number of function inputs are correct on call
+
+Operands of boolean operator
+Assignment of boolean exp to boolean variable only
+Operands of arithmetic operators
+Assignment of arithmetic exp to arithmetic variable only
+Operands of structure operators
+Assignment of structure exp to structure variable only
+assignment when call return type matches with assigning variable

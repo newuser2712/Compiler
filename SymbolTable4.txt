@@ -1,0 +1,26 @@
+taxCalculation declaration 2 scope 0 fname 1 assignments 0 array type=0 referred=1
+type is DECIMAL
+inputtype is DECIMAL
+income declaration 2 scope 0 fname 0 assignments 0 array type=0 referred=1
+type is DECIMAL
+adjustVal declaration 4 scope 2 fname 0 assignments 1 array type=0 referred=0
+type is DECIMAL
+rhs=income MINUS   at line 5
+taxUtil declaration 6 scope 0 fname 1 assignments 0 array type=0 referred=1
+type is DECIMAL
+inputtype is (null)
+y declaration 8 scope 1 fname 0 assignments 1 array type=0 referred=0
+type is DECIMAL
+rhs= MULT adjustVal  at line 9
+finalVal declaration 12 scope 1 fname 0 assignments 1 array type=0 referred=1
+type is DECIMAL
+rhs=taxUtil  at line 13
+main declaration 16 scope 0 fname 1 assignments 0 array type=0 referred=0
+type is Void
+inputtype is (null)
+d declaration 18 scope 3 fname 0 assignments 1 array type=0 referred=1
+type is INTEGER
+rhs=  at line 19
+tax declaration 20 scope 3 fname 0 assignments 1 array type=0 referred=1
+type is DECIMAL
+rhs=taxCalculation d  at line 21

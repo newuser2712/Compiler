@@ -1,0 +1,23 @@
+a declaration 4 scope 1 fname 0 assignments 0 array type=0 referred=0
+type is INTEGER
+b declaration 4 scope 1 fname 0 assignments 0 array type=0 referred=0
+type is INTEGER
+c declaration 5 scope 1 fname 0 assignments 0 array type=0 referred=0
+type is CHARACTER
+a declaration 9 scope 2 fname 0 assignments 0 array type=0 referred=0
+type is INTEGER
+b declaration 9 scope 2 fname 0 assignments 0 array type=0 referred=0
+type is INTEGER
+c declaration 10 scope 2 fname 0 assignments 0 array type=0 referred=0
+type is CHARACTER
+main declaration 14 scope 0 fname 1 assignments 0 array type=0 referred=0
+a1 declaration 17 scope 3 fname 0 assignments 0 array type=0 referred=2
+type is A
+b1 declaration 18 scope 3 fname 0 assignments 0 array type=0 referred=2
+type is B
+C declaration 18 scope 3 fname 0 assignments 1 array type=0 referred=1
+type is BOOLEAN
+rhs=NAME_EQU O_PAR a1 COMMA b1 C_PAR  at line 20
+D declaration 18 scope 3 fname 0 assignments 1 array type=0 referred=1
+type is BOOLEAN
+rhs=STRUCT_EQU O_PAR a1 COMMA b1 C_PAR  at line 21

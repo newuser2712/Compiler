@@ -1,0 +1,59 @@
+Program 1 child 101  2 child 65 
+Global_Block 0 child 2  1 child 150  2 child 150 
+GLOBAL
+Collection_declaration 0 child 52  1 child 118  2 child 118  4 child 54 
+COLLECTION
+Declaration 0 child 11  1 child 65  2 child 65 
+INTEGER
+IDEN
+IDEN
+Declaration 0 child 14  1 child 65 
+CHARACTER
+IDEN
+
+ENDINCLUDES
+Collection_declaration 0 child 52  1 child 118  2 child 118  4 child 54 
+COLLECTION
+Declaration 0 child 11  1 child 65  2 child 65 
+INTEGER
+IDEN
+IDEN
+Declaration 0 child 14  1 child 65 
+CHARACTER
+IDEN
+
+ENDINCLUDES
+IDEN 2 child 113 
+func_body 1 child 118  2 child 118  3 child 118  4 child 19  5 child 19  6 child 50  7 child 50  8 child 49  9 child 50 
+Declaration 0 child 65  1 child 65  2 child 65 
+IDEN
+IDEN
+IDEN
+Declaration 0 child 65  1 child 65  2 child 65 
+IDEN
+IDEN
+IDEN
+Declaration 0 child 15  1 child 65  2 child 65 
+BOOLEAN
+IDEN
+IDEN
+ASSIGN 1 child 65  3 child 131 
+IDEN
+Expression 0 child 32  2 child 65  4 child 65 
+NAME_EQU
+IDEN
+IDEN
+ASSIGN 1 child 65  3 child 131 
+IDEN
+Expression 0 child 33  2 child 65  4 child 65 
+STRUCT_EQU
+IDEN
+IDEN
+PRINT 2 child 65 
+IDEN
+PRINT 2 child 65 
+IDEN
+SCAN 2 child 65 
+IDEN
+PRINT 2 child 65 
+IDEN

@@ -1,0 +1,23 @@
+Prog
+	% taxCalculation(Decimal income) : [ Decimal ]
+	SubProg
+		Decimal adjustVal;
+		assign adjustVal as income-6000;
+		% taxUtil() :[ Decimal ]
+		SubProg
+			Decimal y;
+			assign y as 0.28 * adjustVal;
+			return [y];
+		EndSubProg
+	Decimal finalVal;
+	assign multiple [ finalVal] as Call taxUtil();
+	return [finalVal];
+	EndSubProg
+	% main():[] 
+	SubProg
+		Integer d ;
+		assign d as 8556.74;
+		Decimal tax;
+		assign multiple[tax] as Call taxCalculation(d);
+	EndSubProg
+EndProg

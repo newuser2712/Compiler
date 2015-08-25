@@ -1,0 +1,17 @@
+a1 declaration 4 scope 1 fname 0 assignments 1 array type=0 referred=0
+type is INTEGER
+rhs=1 at line 7
+a2 declaration 4 scope 1 fname 0 assignments 1 array type=0 referred=0
+type is INTEGER
+rhs=2 at line 7
+b1 declaration 4 scope 1 fname 0 assignments 1 array type=0 referred=0
+type is INTEGER
+rhs=1 at line 7
+b2 declaration 4 scope 1 fname 0 assignments 1 array type=0 referred=0
+type is INTEGER
+rhs=2 at line 7
+avar declaration 5 scope 1 fname 0 assignments 1 array type=0 referred=1
+type is BOOLEAN
+rhs=TRUE  at line 6
+bvar declaration 5 scope 1 fname 0 assignments 0 array type=0 referred=1
+type is BOOLEAN

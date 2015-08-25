@@ -1,0 +1,77 @@
+Program 2 child 300 
+
+ 2 child 113 
+func_body 1 child 118  2 child 118  3 child 19  4 child 130  5 child 118  6 child 19  7 child 130 
+Declaration 0 child 109  1 child 301 
+type 0 child 11  1 child 110 
+INTEGER
+Box 1 child 400 
+
+
+Declaration 0 child 11  1 child 302 
+INTEGER
+
+ASSIGN 1 child 303  3 child 401 
+
+
+Iterative 0 child 29  2 child 36  4 child 30  5 child 114  6 child 31 
+WHILE
+LT 0 child 304  2 child 402 
+
+
+LOOP
+smts_&_func_defs 0 child 19  1 child 19 
+ASSIGN 1 child 120  3 child 307 
+Lvalue 0 child 305  1 child 306 
+
+
+
+ASSIGN 1 child 308  3 child 131 
+
+Expression 0 child 309  2 child 132 
+
+ExpB 0 child 42  1 child 403 
+PLUS
+
+ENDLOOP
+Declaration 0 child 109  1 child 310 
+type 0 child 11  1 child 110 
+INTEGER
+Box 1 child 404 
+
+
+ASSIGN 1 child 120  3 child 131 
+Lvalue 0 child 311  1 child 123 
+
+B 1 child 124 
+integerOrID 0 child 405  1 child 125 
+
+SecondIndex 1 child 406 
+
+Expression 0 child 312  1 child 123 
+
+B 1 child 124 
+integerOrID 0 child 407  1 child 125 
+
+SecondIndex 1 child 408 
+
+Iterative 0 child 29  2 child 36  4 child 30  5 child 114  6 child 31 
+WHILE
+LT 0 child 313  2 child 409 
+
+
+LOOP
+smts_&_func_defs 0 child 50  1 child 19 
+PRINT 2 child 144 
+var 0 child 314  1 child 123 
+
+B 1 child 315 
+
+ASSIGN 1 child 316  3 child 131 
+
+Expression 0 child 317  2 child 132 
+
+ExpB 0 child 42  1 child 410 
+PLUS
+
+ENDLOOP

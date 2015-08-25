@@ -1,0 +1,28 @@
+Program 2 child 65 
+IDEN 2 child 113 
+func_body 1 child 118  2 child 19  3 child 19 
+Declaration 0 child 11  1 child 65  2 child 65  3 child 65  4 child 65 
+INTEGER
+IDEN
+IDEN
+IDEN
+IDEN
+ASSIGN 1 child 120  3 child 133 
+Lvalue 0 child 65  1 child 65  2 child 65  3 child 65 
+IDEN
+IDEN
+IDEN
+IDEN
+Mul_Block 1 child 134 
+Mul_Left_Rec 0 child 57  2 child 57  3 child 57  4 child 57 
+INTR
+INTR
+INTR
+INTR
+ASSIGN 1 child 65  3 child 131 
+IDEN
+Expression 0 child 65  2 child 132 
+IDEN
+ExpB 0 child 42  1 child 65 
+PLUS
+IDEN

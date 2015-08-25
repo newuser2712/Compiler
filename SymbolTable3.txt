@@ -1,0 +1,14 @@
+main declaration 2 scope 0 fname 1 assignments 0 array type=0 referred=0
+type is Void
+inputtype is (null)
+arr declaration 4 scope 1 fname 0 assignments 1 array type=1 referred=1
+type is INTEGER
+rhs=i  at line 10
+i declaration 5 scope 1 fname 0 assignments 3 array type=0 referred=7
+type is INTEGER
+rhs=  at line 6
+rhs=i PLUS   at line 11
+rhs=i PLUS   at line 20
+revarr declaration 14 scope 1 fname 0 assignments 1 array type=1 referred=1
+type is INTEGER
+rhs=arr LSB  COLON  RSB  at line 15

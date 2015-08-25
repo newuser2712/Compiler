@@ -1,0 +1,66 @@
+Program  2 child is func_defs 
+func_defs  1 child is IDEN 2 child is func_body 
+IDEN  
+func_body  0 child is SUBPROG 1 child is Declaration 2 child is Declaration 3 child is ASSIGN 4 child is Iterative 5 child is Declaration 6 child is ASSIGN 7 child is Iterative 
+SUBPROG  
+Declaration  0 child is IDEN 1 child is IDEN 
+IDEN  
+IDEN  
+Declaration  0 child is IDEN 1 child is IDEN 
+IDEN  
+IDEN  
+ASSIGN  1 child is IDEN 3 child is INTR 
+IDEN  
+INTR  
+Iterative  0 child is WHILE 1 child is ASSIGN 2 child is ASSIGN 4 child is LOOP 6 child is ENDLOOP 
+WHILE  
+ASSIGN  1 child is Lvalue 3 child is IDEN 
+Lvalue  0 child is IDEN 1 child is IDEN 
+IDEN  
+IDEN  
+IDEN  
+ASSIGN  1 child is IDEN 3 child is Expression 
+IDEN  
+Expression  0 child is IDEN 2 child is ExpB 
+IDEN  
+ExpB  0 child is PLUS 1 child is INTR 
+PLUS  
+INTR  
+LOOP  
+  
+ENDLOOP  
+Declaration  0 child is IDEN 1 child is IDEN 
+IDEN  
+IDEN  
+ASSIGN  1 child is Lvalue 3 child is Expression 
+Lvalue  0 child is IDEN 1 child is B 
+IDEN  
+B  1 child is integerOrID 
+integerOrID  0 child is INTR 1 child is SecondIndex 
+INTR  
+SecondIndex  1 child is INTR 
+INTR  
+Expression  0 child is IDEN 1 child is B 
+IDEN  
+B  1 child is integerOrID 
+integerOrID  0 child is INTR 1 child is SecondIndex 
+INTR  
+SecondIndex  1 child is INTR 
+INTR  
+Iterative  0 child is WHILE 1 child is PRINT 2 child is ASSIGN 4 child is LOOP 6 child is ENDLOOP 
+WHILE  
+PRINT  2 child is var 
+var  0 child is IDEN 1 child is B 
+IDEN  
+B  1 child is IDEN 
+IDEN  
+ASSIGN  1 child is IDEN 3 child is Expression 
+IDEN  
+Expression  0 child is IDEN 2 child is ExpB 
+IDEN  
+ExpB  0 child is PLUS 1 child is INTR 
+PLUS  
+INTR  
+LOOP  
+  
+ENDLOOP  

@@ -1,0 +1,41 @@
+Program 2 child 300 
+ 2 child 113 
+func_body 1 child 118  2 child 118  3 child 19  4 child 19  5 child 24 
+Declaration 0 child 11  1 child 301  2 child 302  3 child 303  4 child 304 
+INTEGER
+
+
+
+
+Declaration 0 child 15  1 child 305  2 child 306 
+BOOLEAN
+
+
+ASSIGN 1 child 307  3 child 59 
+
+TRUE
+ASSIGN 1 child 120  3 child 133 
+Lvalue 0 child 308  1 child 309  2 child 310  3 child 311 
+
+
+
+
+Mul_Block 1 child 134 
+Mul_Left_Rec 0 child 400  2 child 401  3 child 402  4 child 403 
+
+
+
+
+IF 2 child 41  5 child 24 
+EQ 0 child 312  2 child 59 
+
+TRUE
+IF 2 child 41  5 child 50  8 child 28 
+EQ 0 child 313  2 child 59 
+
+TRUE
+PRINT 2 child 56 
+STR
+ELSE 2 child 50 
+PRINT 2 child 56 
+STR

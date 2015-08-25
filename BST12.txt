@@ -1,0 +1,12 @@
+Program 2 child 65 
+IDEN 2 child 113 
+func_body 1 child 118  2 child 19  3 child 50 
+Declaration 0 child 12  1 child 65  2 child 65 
+STRING
+IDEN
+IDEN
+ASSIGN 1 child 65  3 child 56 
+IDEN
+STR
+PRINT 2 child 65 
+IDEN

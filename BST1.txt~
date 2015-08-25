@@ -1,0 +1,47 @@
+Program  2 child is func_defs 
+func_defs  1 child is IDEN 2 child is func_body 
+IDEN  
+func_body  0 child is SUBPROG 1 child is Declaration 2 child is Declaration 3 child is ASSIGN 4 child is ASSIGN 5 child is IF 
+SUBPROG  
+Declaration  0 child is IDEN 1 child is IDEN 2 child is IDEN 3 child is IDEN 
+IDEN  
+IDEN  
+IDEN  
+IDEN  
+Declaration  0 child is IDEN 1 child is IDEN 
+IDEN  
+IDEN  
+ASSIGN  1 child is IDEN 3 child is TRUE 
+IDEN  
+TRUE  
+ASSIGN  1 child is Lvalue 3 child is Mul_Block 
+Lvalue  0 child is IDEN 1 child is IDEN 2 child is IDEN 3 child is IDEN 
+IDEN  
+IDEN  
+IDEN  
+IDEN  
+Mul_Block  1 child is Mul_Left_Rec 
+Mul_Left_Rec  0 child is INTR 2 child is INTR 3 child is INTR 4 child is INTR 
+INTR  
+INTR  
+INTR  
+INTR  
+IF  2 child is EQ 4 child is BEGIN 5 child is IF 6 child is END 
+EQ  0 child is IDEN 2 child is TRUE 
+IDEN  
+TRUE  
+BEGIN  
+IF  2 child is EQ 4 child is BEGIN 5 child is PRINT 6 child is END 8 child is ELSE 
+EQ  0 child is IDEN 2 child is TRUE 
+IDEN  
+TRUE  
+BEGIN  
+PRINT  2 child is STR 
+STR  
+END  
+ELSE  1 child is BEGIN 2 child is PRINT 3 child is END 
+BEGIN  
+PRINT  2 child is STR 
+STR  
+END  
+END  

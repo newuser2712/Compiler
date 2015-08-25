@@ -1,0 +1,9 @@
+Prog
+%main():[]
+SubProg
+Integer a;
+scan (a);
+print (b);
+		
+EndSubProg
+EndProg

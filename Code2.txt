@@ -1,0 +1,69 @@
+Program 1 child 101  2 child 102 
+Global_Block 0 child 2  1 child 118  2 child 3 
+GLOBAL
+Declaration 0 child 11  1 child 300 
+INTEGER
+
+ENDGLOBAL
+more_func_defs 0 child 104  1 child 102 
+func_defs 1 child 105  2 child 113 
+func_sig 0 child 301  2 child 107  6 child 11 
+
+remaining_list 0 child 11  1 child 302 
+INTEGER
+
+INTEGER
+func_body 1 child 19  2 child 118  3 child 19  4 child 148 
+ASSIGN 1 child 303  3 child 400 
+
+
+Declaration 0 child 11  1 child 304 
+INTEGER
+
+ASSIGN 1 child 305  3 child 401 
+
+
+Return_statement 0 child 51  2 child 306 
+RETURN
+
+more_func_defs 0 child 104  1 child 314 
+func_defs 1 child 105  2 child 113 
+func_sig 0 child 307  2 child 107  6 child 11 
+
+remaining_list 0 child 11  1 child 308 
+INTEGER
+
+INTEGER
+func_body 1 child 118  2 child 19 
+Declaration 0 child 11  1 child 145 
+INTEGER
+variables 0 child 309  1 child 146 
+
+more_ids 1 child 310 
+
+ASSIGN 1 child 120  3 child 122 
+Lvalue 0 child 21  2 child 311 
+MULTIPLE
+
+functionCall 0 child 22  1 child 312  3 child 313 
+CALL
+
+
+ 2 child 113 
+func_body 1 child 19  2 child 118  3 child 19  4 child 50 
+ASSIGN 1 child 315  3 child 402 
+
+
+Declaration 0 child 11  1 child 316 
+INTEGER
+
+ASSIGN 1 child 120  3 child 122 
+Lvalue 0 child 21  2 child 317 
+MULTIPLE
+
+functionCall 0 child 22  1 child 318  3 child 319 
+CALL
+
+
+PRINT 2 child 320 
+111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111ÿÿÿÿ

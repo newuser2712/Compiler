@@ -1,0 +1,10 @@
+Prog
+%main():[]
+SubProg
+Integer a;
+scan (a);
+assign a as 4;
+print (a);
+		
+EndSubProg
+EndProg

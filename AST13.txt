@@ -1,0 +1,12 @@
+Program2 child func_defs 
+func_defs1 child IDEN 2 child func_body 
+IDEN
+func_body0 child SUBPROG 1 child Declaration 2 child SCAN 3 child PRINT 
+SUBPROG
+Declaration0 child INTEGER 1 child IDEN 
+INTEGER
+IDEN
+SCAN2 child IDEN 
+IDEN
+PRINT2 child IDEN 
+IDEN

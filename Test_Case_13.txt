@@ -1,0 +1,16 @@
+Prog
+	%main():[] SubProg
+		
+		String S1,S2;
+
+		assign S1 as "New_String";
+		assign S2 as "Old_String";
+		
+		Boolean b1;
+ 
+		assign b1 as S2?S1;
+		
+		print(b1);
+	
+	EndSubProg
+EndProg

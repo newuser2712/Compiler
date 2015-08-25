@@ -1,0 +1,22 @@
+Program 2 child 300 
+ 2 child 113 
+func_body 1 child 118  2 child 19  3 child 19  4 child 24 
+Declaration 0 child 15  1 child 301  2 child 302 
+BOOLEAN
+
+
+ASSIGN 1 child 303  3 child 400 
+
+
+ASSIGN 1 child 304  3 child 401 
+
+
+IF 2 child 41  5 child 50  8 child 28 
+EQ 0 child 305  2 child 402 
+
+
+PRINT 2 child 306 
+
+ELSE 2 child 50 
+PRINT 2 child 307 
+

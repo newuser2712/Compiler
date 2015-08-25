@@ -1,0 +1,11 @@
+Prog
+	%main():[] SubProg
+		
+		String S1,S2;
+
+		assign S1 as "New_String";
+		
+		print(S1);
+	
+	EndSubProg
+EndProg

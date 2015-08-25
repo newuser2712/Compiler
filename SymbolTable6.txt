@@ -1,0 +1,12 @@
+main declaration 2 scope 0 fname 1 assignments 0 array type=0 referred=0
+type is Void
+inputtype is (null)
+S1 declaration 4 scope 1 fname 0 assignments 1 array type=0 referred=2
+type is STRING
+rhs=DOUBLE_QUOTE  DOUBLE_QUOTE  at line 6
+S2 declaration 4 scope 1 fname 0 assignments 1 array type=0 referred=2
+type is STRING
+rhs=S1 REPEAT   at line 7
+b1 declaration 9 scope 1 fname 0 assignments 1 array type=0 referred=1
+type is BOOLEAN
+rhs=S2 LEXICOGRAPHIC S1  at line 11

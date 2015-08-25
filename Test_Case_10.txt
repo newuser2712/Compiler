@@ -1,0 +1,18 @@
+Prog
+%main():[]
+SubProg
+Boolean avar,bvar;
+assign avar as 1;
+assign bvar as 2;
+if(avar =1)
+Begin
+print(avar);
+End
+	
+else
+Begin
+print(bvar);
+End
+		
+EndSubProg
+EndProg

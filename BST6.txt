@@ -1,0 +1,33 @@
+Program 2 child 65 
+IDEN 2 child 113 
+func_body 1 child 118  2 child 19  3 child 19  4 child 118  5 child 19  6 child 50  7 child 50  8 child 50 
+Declaration 0 child 12  1 child 65  2 child 65 
+STRING
+IDEN
+IDEN
+ASSIGN 1 child 65  3 child 56 
+IDEN
+STR
+ASSIGN 1 child 65  3 child 131 
+IDEN
+Expression 0 child 65  2 child 132 
+IDEN
+ExpB 0 child 34  1 child 57 
+REPEAT
+INTR
+Declaration 0 child 15  1 child 65 
+BOOLEAN
+IDEN
+ASSIGN 1 child 65  3 child 131 
+IDEN
+Expression 0 child 65  2 child 132 
+IDEN
+ExpB 0 child 35  1 child 65 
+LEXICOGRAPHIC
+IDEN
+PRINT 2 child 65 
+IDEN
+PRINT 2 child 65 
+IDEN
+PRINT 2 child 65 
+IDEN

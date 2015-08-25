@@ -1,0 +1,25 @@
+Program 2 child IDEN 
+IDEN 2 child func_body 
+func_body 1 child Declaration  2 child ASSIGN  3 child ASSIGN  4 child Declaration  5 child ASSIGN  6 child PRINT 
+Declaration 0 child STRING  1 child IDEN  2 child IDEN 
+STRING
+IDEN
+IDEN
+ASSIGN 1 child IDEN  3 child STR 
+IDEN
+STR
+ASSIGN 1 child IDEN  3 child STR 
+IDEN
+STR
+Declaration 0 child BOOLEAN  1 child IDEN 
+BOOLEAN
+IDEN
+ASSIGN 1 child IDEN  3 child Expression 
+IDEN
+Expression 0 child IDEN  2 child ExpB 
+IDEN
+ExpB 0 child LEXICOGRAPHIC  1 child IDEN 
+LEXICOGRAPHIC
+IDEN
+PRINT 2 child IDEN 
+IDEN

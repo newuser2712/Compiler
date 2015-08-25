@@ -1,0 +1,58 @@
+Program 2 child 
+ 
+
+ 2 child func_body 
+func_body 1 child Declaration  2 child Declaration  3 child ASSIGN  4 child Iterative  5 child Declaration  6 child ASSIGN 
+Declaration 0 child type  1 child  
+type 0 child INTEGER  1 child Box 
+INTEGER
+Box 1 child  
+
+
+Declaration 0 child INTEGER  1 child  
+INTEGER
+
+ASSIGN 1 child   3 child  
+
+
+Iterative 0 child WHILE  2 child LT  4 child LOOP  5 child smts_&_func_defs  6 child ENDLOOP 
+WHILE
+LT 0 child   2 child  
+
+
+LOOP
+smts_&_func_defs 0 child ASSIGN  1 child ASSIGN 
+ASSIGN 1 child Lvalue  3 child  
+Lvalue 0 child   1 child  
+
+
+
+ASSIGN 1 child   3 child Expression 
+
+Expression 0 child   2 child ExpB 
+
+ExpB 0 child PLUS  1 child  
+PLUS
+
+ENDLOOP
+Declaration 0 child type  1 child  
+type 0 child INTEGER  1 child Box 
+INTEGER
+Box 1 child  
+
+
+ASSIGN 1 child Lvalue  3 child Expression 
+Lvalue 0 child   1 child B 
+
+B 1 child integerOrID 
+integerOrID 0 child   1 child SecondIndex 
+
+SecondIndex 1 child  
+
+Expression 0 child   1 child B 
+
+B 1 child integerOrID 
+integerOrID 0 child   1 child SecondIndex 
+
+SecondIndex 1 child  
+

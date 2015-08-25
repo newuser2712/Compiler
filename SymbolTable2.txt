@@ -1,0 +1,24 @@
+a declaration 3 scope 0 fname 0 assignments 2 array type=0 referred=2
+type is INTEGER
+rhs=1  at line 8
+rhs=2  at line 22
+first declaration 6 scope 0 fname 1 assignments 0 array type=0 referred=1
+y declaration 6 scope 0 fname 0 assignments 0 array type=0 referred=0
+type is INTEGER
+b declaration 9 scope 1 fname 0 assignments 1 array type=0 referred=1
+type is INTEGER
+rhs=2  at line 10
+second declaration 14 scope 0 fname 1 assignments 0 array type=0 referred=1
+z declaration 14 scope 1 fname 0 assignments 0 array type=0 referred=0
+type is INTEGER
+a declaration 16 scope 2 fname 0 assignments 0 array type=0 referred=1
+type is INTEGER
+b declaration 16 scope 2 fname 0 assignments 1 array type=0 referred=0
+type is INTEGER
+rhs=first a 
+ at line 17
+main declaration 20 scope 0 fname 1 assignments 0 array type=0 referred=0
+c declaration 23 scope 3 fname 0 assignments 1 array type=0 referred=0
+type is INTEGER
+rhs=second a 
+ at line 24

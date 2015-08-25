@@ -1,0 +1,8 @@
+	section .bss
+main resd 1
+arr resd 1
+i resd 1
+revarr resd 1
+section .text
+		global _start
+_start:

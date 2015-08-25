@@ -1,0 +1,22 @@
+Program 2 child 65 
+IDEN 2 child 113 
+func_body 1 child 118  2 child 19  3 child 19  4 child 24 
+Declaration 0 child 15  1 child 65  2 child 65 
+BOOLEAN
+IDEN
+IDEN
+ASSIGN 1 child 65  3 child 57 
+IDEN
+INTR
+ASSIGN 1 child 65  3 child 57 
+IDEN
+INTR
+IF 2 child 41  5 child 50  8 child 28 
+EQ 0 child 65  2 child 57 
+IDEN
+INTR
+PRINT 2 child 65 
+IDEN
+ELSE 2 child 50 
+PRINT 2 child 65 
+IDEN
